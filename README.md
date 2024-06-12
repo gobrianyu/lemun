@@ -3,8 +3,6 @@
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024**
 
 
-<img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
-
 <p float="left">
   <img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
   <img src="./lib/assets/compassview.jpg" alt="Screenshot of app's compass view" width="200"/> 
