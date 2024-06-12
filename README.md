@@ -5,6 +5,11 @@
 
 <img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
 
+<p float="left">
+  <img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
+  <img src="./lib/assets/compassview.jpg" alt="Screenshot of app's compass view" width="200"/> 
+</p>
+
 ## Build steps
 - Clone repository
 - Run 'flutter pub get'
