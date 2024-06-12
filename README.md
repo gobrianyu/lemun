@@ -19,10 +19,10 @@
 
 ### lib/assets/
 
-- `bus_stops.csv`
-- lemun_compass.png: image for the compass
+- `bus_stops.csv` csv file of Seattle bus stops
+- `lemun_compass.png` image for the compass
 
-### lib/helpers/
+#### lib/helpers/
 
 - scooter_checker.dart: Helper to update the list of scooters and bikes near the user
 
