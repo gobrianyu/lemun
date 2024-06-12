@@ -1,5 +1,8 @@
 # Lemún
 
+**App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024**
+
+
 ## Build steps
 - Clone repository
 - Run 'flutter pub get'
@@ -70,6 +73,3 @@ We created a provider that will periodically check with the scooter and bike API
 We created a provider to manage the state of the entire app, between being able to scroll through the map and being able to draw a path. This was done by toggling on and off a transparent version of the drawing app that we made, and changing what the drawer would contain (between colors and cities).
 
 We used the same provider framework that was used in the drawing app to manage drawing state. We also used the same framework that was used in the food finder app to have a position provider that updates the users position and places them on the map.
-
-
-# App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024
