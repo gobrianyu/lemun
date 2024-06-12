@@ -3,6 +3,8 @@
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024**
 
 
+![Screenshot of app's homepage](./lib/assets/screenshot_-_mapview.jpg)
+
 ## Build steps
 - Clone repository
 - Run 'flutter pub get'
