@@ -19,7 +19,7 @@
 
 ### lib/assets/
 
-- bus_stops.csv
+- `bus_stops.csv`
 - lemun_compass.png: image for the compass
 
 ### lib/helpers/
