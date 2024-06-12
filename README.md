@@ -1,6 +1,6 @@
 # Lemún
 
-**App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington**
+**App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, and Jacob Marcuson for CSE 340 class at University of Washington**
 
 
 <p float="left">
