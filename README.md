@@ -1,11 +1,10 @@
-# LemÚn
+# Lemún
 
-## Build steps:
-- Clone the repository using 'git clone git@gitlab.cs.washington.edu:cse340-24spring-students/final_project-brian127-dgao2-rshanth-jmarc23.git'
-- Cd into the repository
+## Build steps
+- Clone repository
 - Run 'flutter pub get'
-- Run the project using 'flutter run' or whatever works
-- You will have to enable location permissions
+- Run the project using 'flutter run'
+- Note: You will have to enable location permissions
 - Once the app is ready, you can pan, zoom around the map, click on bikes, scooters, and bus stops to gain information about them, and use the legend to enable/disable vehicle types and move to your location
 
 ## Project structure:
@@ -71,3 +70,6 @@ We created a provider that will periodically check with the scooter and bike API
 We created a provider to manage the state of the entire app, between being able to scroll through the map and being able to draw a path. This was done by toggling on and off a transparent version of the drawing app that we made, and changing what the drawer would contain (between colors and cities).
 
 We used the same provider framework that was used in the drawing app to manage drawing state. We also used the same framework that was used in the food finder app to have a position provider that updates the users position and places them on the map.
+
+
+# App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024
