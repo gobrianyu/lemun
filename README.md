@@ -3,7 +3,7 @@
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, Jacob Marcuson for CSE 340 class at University of Washington, May 2024**
 
 
-![Screenshot of app's homepage](./lib/assets/mapview.jpg)
+<img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
 
 ## Build steps
 - Clone repository
