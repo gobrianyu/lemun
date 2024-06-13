@@ -1,4 +1,4 @@
-# Lemún
+# Lemún <img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
 
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, and Jacob Marcuson for CSE 340 class at University of Washington**
 
