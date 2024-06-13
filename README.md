@@ -63,7 +63,7 @@ This is an Android app (iOS version may contain bugs, macOS version confirmed ha
 - A position provider is used to update the user's position.
 
 ### Read more
-[Peer audit (by Charyl Li)](./docs/audit.md)
-[Project evaluations](./docs/evaluation.md)
-[Project motivation](./docs/need.md)
-[General reflection](./docs/reflection.md)
+- [Peer audit (by Charyl Li)](./docs/audit.md)
+- [Project evaluations](./docs/evaluation.md)
+- [Project motivation](./docs/need.md)
+- [General reflection (including resources used)](./docs/reflection.md)
