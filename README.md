@@ -1,9 +1,8 @@
 # Lemún
 
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, and Jacob Marcuson for CSE 340 class at University of Washington**
+
 This is an Android app (iOS version may contain bugs, macOS version confirmed has bugs) targeted towards Seattle commuters who use both public transportation options (i.e. light rail and bus) as well as rental bike and scooter services (i.e. Lime). It functions similar to other map apps where markers are displayed on screen to alert users of nearby transit options. Tapping on a marker will bring up a compass, pointing the user in the direction of their intended ride. Future updates *may* include an expansion to other regions (potentially requiring more API accesses), more marker options, walk routes, schedules, and a transition from `flutter_maps` to Google's mapping widget.
-
-
 
 <p float="left">
   <img src="./lib/assets/mapview.jpg" alt="Screenshot of app's homepage" width="200"/>
@@ -17,7 +16,7 @@ This is an Android app (iOS version may contain bugs, macOS version confirmed ha
 - Note: You will have to enable location permissions.
 - Once the app is ready, you can pan and zoom the map, click on bikes, scooters, and bus stops for further information, and use the legend to filter by icon type.
 
-### Project structure:
+### Project structure
 
 #### `lib/assets/`
 - `bus_stops.csv` CSV file of Seattle bus stops.
@@ -62,3 +61,9 @@ This is an Android app (iOS version may contain bugs, macOS version confirmed ha
 - A provider is used to manage the state of the entire app (e.g. toggling canvas features).
 - A similar provider framework to the one used in the drawing app manages drawing state.
 - A position provider is used to update the user's position.
+
+### Read more
+[Peer audit (by Charyl Li)](./docs/audit.md)
+[Project evaluations](./docs/evaluation.md)
+[Project motivation](./docs/need.md)
+[General reflection](./docs/reflection.md)
