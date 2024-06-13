@@ -1,4 +1,4 @@
-# Lemún <img src="./lib/assets/lemun.png" alt="Screenshot of app's homepage" width="35"/>
+# <img src="./lib/assets/lemun.png" alt="Screenshot of app's homepage" width="35"/> Lemún
 
 **App developed by Brian Yu, Rohan Shanthanu, Daniel Gao, and Jacob Marcuson for CSE 340 class at University of Washington**
 
